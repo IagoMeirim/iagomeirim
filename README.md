@@ -1,4 +1,4 @@
-## Olá, eu sou o Iago Meirim
+## Sou o Iago Meirim
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Typescript

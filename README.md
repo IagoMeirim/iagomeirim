@@ -1,7 +1,7 @@
 ## Sou o Iago Meirim
 
-- 📚 Hoje trabalho com front-end
-- 🖥️ Estudando Typescript
+- 📚 Hoje trabalho com back-end
+- 🖥️ Estudando Python
 
 <div>
   

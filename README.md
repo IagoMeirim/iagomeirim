@@ -25,6 +25,25 @@
   <img align="center" alt="Iago-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div><br>
 
+### Meus Projetos 🚀
+
+Aqui estão alguns dos projetos que desenvolvi utilizando minhas tecnologias favoritas:
+
+1. **[Projeto 1 - Nome do Projeto]**  
+   Descrição breve do projeto, as tecnologias utilizadas e a funcionalidade principal.  
+   Tecnologias: JavaScript, React, Node.js  
+   [Link para o repositório no GitHub](https://github.com/iagomeirim/projeto1)
+
+2. **[Projeto 2 - Nome do Projeto]**  
+   Descrição breve do projeto, as tecnologias utilizadas e a funcionalidade principal.  
+   Tecnologias: Python, Django, PostgreSQL  
+   [Link para o repositório no GitHub](https://github.com/iagomeirim/projeto2)
+
+3. **[Projeto 3 - Nome do Projeto]**  
+   Descrição breve do projeto, as tecnologias utilizadas e a funcionalidade principal.  
+   Tecnologias: TypeScript, React, Express  
+   [Link para o repositório no GitHub](https://github.com/iagomeirim/projeto3)
+
 ### Vamos nos conectar:
 
 <div>
@@ -32,7 +51,6 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/iago-meirim-9a5175337" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+    <img src="https://img.sh
+
 

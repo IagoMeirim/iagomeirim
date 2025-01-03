@@ -35,6 +35,7 @@
   <a href="https://www.instagram.com/iagoqz" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+  <br></br>
   <a href="https://www.linkedin.com/in/iago-meirim-9a5175337" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>

@@ -1,7 +1,7 @@
 ## Olá, sou o Iago Meirim! 👋
 
 - 📚 Atualmente trabalho com **back-end**.
-- 🖥️ Estou **estudando Python, SQL & Spring Boot**.
+- 🖥️ Estou **estudando Python, Java, SQL & Spring Boot**.
 
 <div>
   <a href="https://github.com/iagomeirim">
